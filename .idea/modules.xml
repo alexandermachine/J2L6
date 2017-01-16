@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/home work/J2L4/J2L4.iml" filepath="$PROJECT_DIR$/home work/J2L4/J2L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home work/J2L5/J2L5.iml" filepath="$PROJECT_DIR$/home work/J2L5/J2L5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home work/J2L6/J2L6.iml" filepath="$PROJECT_DIR$/home work/J2L6/J2L6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L2/J2Lesson2/J2Lesson2.iml" filepath="$PROJECT_DIR$/J2L2/J2Lesson2/J2Lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L2/j2-l2-lesson/j2-l2-lesson.iml" filepath="$PROJECT_DIR$/J2L2/j2-l2-lesson/j2-l2-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L1/j2l1-lesson/j2l1-lesson.iml" filepath="$PROJECT_DIR$/J2L1/j2l1-lesson/j2l1-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L4/j2l4-db-lesson/j2l4-db-lesson.iml" filepath="$PROJECT_DIR$/J2L4/j2l4-db-lesson/j2l4-db-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L4/j2l4-lesson/j2l4-lesson.iml" filepath="$PROJECT_DIR$/J2L4/j2l4-lesson/j2l4-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L6/j2l6-server/j2l6-server.iml" filepath="$PROJECT_DIR$/J2L6/j2l6-server/j2l6-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2L6/j2l6-simpleClientServer/j2l6-simpleClientServer.iml" filepath="$PROJECT_DIR$/J2L6/j2l6-simpleClientServer/j2l6-simpleClientServer.iml" />
+    </modules>
+  </component>
+</project>
