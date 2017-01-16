@@ -25,7 +25,7 @@ public class EchoServer {
             System.out.println("Message from client: " + message);
 
             PrintWriter out = new PrintWriter(socket.getOutputStream());
-            out.println("Hi dear client");
+            out.println("Hi All client");
             out.flush();
             System.out.println("Message to client send");
 
